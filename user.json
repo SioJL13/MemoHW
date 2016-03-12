@@ -11,62 +11,62 @@
     "name": "Ervin Howell",
     "hobby": "Read Sci-Fi novels",
     "address": "Victor Plains, Wisokyburgh",
-    "phone": "010-692-6593 x09125",
+    "phone": "010-692-6593 x09125"
   },
   {
     "id": 3,
     "name": "Clementine Bauch",
     "hobby": "Watching horror movies",
     "address": "Douglas Extension, McKenziehaven ",
-    "phone": "1-463-123-4447",
+    "phone": "1-463-123-4447"
   },
   {
     "id": 4,
     "name": "Patricia Lebsack",
     "hobyy": "Hackathons",
     "address": "Julianne Street,Kory",
-    "phone": "493-170-9623 x156",
+    "phone": "493-170-9623 x156"
   },
   {
     "id": 5,
     "name": "Chelsey Dietrich",
     "hobby": "Eating cereal",
     "address": "Greenwich Ville, Viillevi",
-    "phone": "(254)954-1289",
+    "phone": "(254)954-1289"
   },
   {
     "id": 6,
     "name": "Mrs. Dennis Schulist",
     "hobby": "Running",
     "address": "Cabo Canaveral, Fl",
-    "phone": "1-477-935-8478 x6430",
+    "phone": "1-477-935-8478 x6430"
   },
   {
     "id": 7,
     "name": "Kurtis Weissnat",
     "hobby": "Animal rescuing",
     "address": "Privada San Francisco, Tx",
-    "phone": "210.067.6132",
+    "phone": "210.067.6132"
   },
   {
     "id": 8,
     "name": "Nicholas Runolfsdottir V",
     "hobby": "Playing videogames",
     "address": "Sherwood Forest, UK",
-    "phone": "586.493.6943 x140",
+    "phone": "586.493.6943 x140"
   },
   {
     "id": 9,
     "name": "Glenna Reichert",
     "hobby": "Paranormal investigations",
     "address": "10 Cloverfield Lane, NYC",
-    "phone": "(775)976-6794 x41206",
+    "phone": "(775)976-6794 x41206"
   },
   {
     "id": 10,
     "name": "Clementina DuBuque",
     "hobby": "Night vigilante",
     "email": "Hells Kitchen, NYC",
-    "phone": "024-648-3804",
+    "phone": "024-648-3804"
   }
 ]
