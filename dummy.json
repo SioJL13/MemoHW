@@ -1,26 +1,26 @@
     {
         "result": {
-            "title": "How to parse JSON file with PHP",
+            "title": "JSON exercise",
     		"posts": [
                 {
-                    "title": "How to Create an RSS Feed with PHP and MySQL",
-    				"img": "http://www.bewebdeveloper.com/images/uploads/how-to-create-an-rss-feed-with-php-and-mysql.jpg",
-    				"link": "http://www.bewebdeveloper.com/tutorial-about-how-to-create-an-rss-feed-with-php-and-mysql"
+                    "title": "Lasagna recipe",
+    				"img": "http://images-gmi-pmc.edge-generalmills.com/f87191f1-589e-4bdc-8662-50fdc23e3f59.jpg",
+    				"link": "http://allrecipes.com/recipe/23600/worlds-best-lasagna/"
                 },
                 {
-                    "title": "Crop photo using PHP and jQuery",
-    				"img": "http://www.bewebdeveloper.com/images/uploads/crop-photo-using-php-and-jquery.jpg",
-    				"link": "http://www.bewebdeveloper.com/tutorial-about-crop-photo-using-php-and-jquery"
+                    "title": "Pesto Pasta recipe",
+    				"img": "http://stonefiregrill.com/wp-content/uploads/2014/08/SFG-Menu-Pasta-Pesto.jpg",
+    				"link": "http://allrecipes.com/recipes/16689/main-dish/pasta/pesto-pasta/"
                 },
                 {
-                    "title": "Using Ajax with PHP/MySQL",
-                    "img": "http://www.bewebdeveloper.com/images/uploads/using-ajax-with-php-mysql.jpg",
-                    "link": "http://www.bewebdeveloper.com/tutorial-about-using-ajax-with-phpmysql"
+                    "title": "Ravioli recipe",
+                    "img": "http://www.vendaravioli.com/images/full/1000zoom.jpg",
+                    "link": "http://www.foodnetwork.com/topics/ravioli-recipes.html"
                 },
                 {
-                    "title": "Using Ajax with native JavaScript",
-                    "img": "http://www.bewebdeveloper.com/images/uploads/using-ajax-with-native-javascript.jpg",
-                    "link": "http://www.bewebdeveloper.com/tutorial-about-using-ajax-with-native-javascript"
+                    "title": "Cannelloni recipe",
+                    "img": "https://www.ocado.com/cmscontent/recipe_image_large/2021893.jpg?KhlE",
+                    "link": "http://allrecipes.com/recipe/19320/italian-baked-cannelloni/"
                 }
             ]
         }
